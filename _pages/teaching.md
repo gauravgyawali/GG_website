@@ -2,10 +2,36 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Here's a list of courses for which I have served as a teaching assistant at Cornell University. 
 
-Organize your courses by years, topics, or universities, however you like!
+### PHYS 2213
+Physics II: Electromagnetism
+- Fall 2018
+- Spring 2019
+
+### PHYS 1112
+Physics I: Mechanics and Heat
+- Summer 2019 (lab only)
+
+### PHYS 1201
+Why the Sky Is Blue: Aspects of the Physical World
+- Fall 2019
+
+### PHYS 3318
+Classical Mechanics for Physics Majors
+- Spring 2019 (grader)
+
+### PHYS 3318
+Electromagnetism for Physics Majors
+- Fall 2020
+- Fall 2021
+
+### PHYS 4443
+Intermmediate Quantum Mechanics
+- Spring 2021
+
+
