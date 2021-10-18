@@ -49,11 +49,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: gauravgyawali# your GitHub user name
+github_username: gauravgyawali # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: GauravGyawali2# your Twitter handle
-linkedin_username: Gaurav-Gyawali# your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+twitter_username: GauravGyawali2 # your Twitter handle
+linkedin_username: Gaurav-Gyawali # your LinkedIn user name
+scholar_userid: Q67Gtq8AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
