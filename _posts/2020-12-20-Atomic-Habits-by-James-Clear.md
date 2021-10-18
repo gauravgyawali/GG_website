@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Synopsis of Atomic Habits by James Clear
 author: Gaurav Gyawali
 date: 2020-12-20 12:20:00 -0500

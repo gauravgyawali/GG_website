@@ -1,5 +1,6 @@
 ---
-title: Consumerism: a worldwide phenomenon
+layout: post
+title: Consumerism-a worldwide phenomenon
 author: Gaurav Gyawali
 date: 2020-06-01 12:20:00 -0500
 description: 
