@@ -25,7 +25,7 @@ Why the Sky Is Blue: Aspects of the Physical World
 Classical Mechanics for Physics Majors
 - Spring 2019 (grader)
 
-### PHYS 3318
+### PHYS 3327
 Electromagnetism for Physics Majors
 - Fall 2020
 - Fall 2021
