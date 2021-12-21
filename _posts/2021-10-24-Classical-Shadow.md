@@ -56,7 +56,7 @@ and  $$\text{tr}(\rho O) \leq -1 \: \forall \: \rho \in \text{ phase B}$$.
 
 In contrast to the symmetry-breaking phases, topological phases cannot be distinguished by measuring some local observable $$O$$. 
 It involves measuring a nonlinear function of $\rho$, for example the entanglement entropy. Learning the nonlinear function requires a more expressive ML model. 
-The authors thus devise a mapping from classical shadow $S(\rho, N)$ to a highly expressive feature space that includes the polynomial expansion of many-body reduced density matrices. 
+The authors thus devise a mapping from classical shadow $S(\rho, N)$$ to a highly expressive feature space that includes the polynomial expansion of many-body reduced density matrices. 
 Using this feature space, they establish a rigorous guarantee that a classical ML can efficiently classify the topological phases of matter as well. 
 The provided examples include the topological phases of the toric code and bond-alternating XXZ Hamiltonians. 
 
