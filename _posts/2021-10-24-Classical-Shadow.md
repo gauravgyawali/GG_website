@@ -33,7 +33,7 @@ which can distinguish between them. Tomographic completeness ensures the existen
 and we can define $$\hat{\rho}=\mathcal{M}^{-1}\left(U^{\dagger}|\hat{b}\rangle\langle\hat{b}| U\right)$$. 
 The array $$(\rho;N) = {\hat{\rho}_1, \cdots \hat{\rho}_N}$$ is called the classical shadow of $$\rho$$ with size $$N$$. 
 $$\hat{\rho}$$ has a unit trace, but it is not necessarily positive semi-definite. 
-Thus, it is not a physical density matrix although it reproduces $\rho$ in expectation i.e. $$\mathrm{E}[\hat{\rho}] = \rho$$ in principle. In practice, we desire to predict various linear (eg. $$text{tr}(O\rho)$$) as well as non linear  (eg. $$tr(\rho \text{log}(\rho)$$) functions of $$\rho$$, or predict its phase. 
+Thus, it is not a physical density matrix although it reproduces $\rho$ in expectation i.e. $$\mathrm{E}[\hat{\rho}] = \rho$$ in principle. In practice, we desire to predict various linear (eg. $$tr(O\rho)$$) as well as non linear  (eg. $$tr(\rho \text{log}(\rho)$$) functions of $$\rho$$, or predict its phase. 
 
 ## Choice of unitary ensembles
 A practical realization of the above technique requires a unitary ensemble that allows us to predict the properties of 
@@ -56,7 +56,7 @@ and  $$\text{tr}(\rho O) \leq -1 \: \forall \: \rho \in \text{ phase B}$$.
 
 In contrast to the symmetry-breaking phases, topological phases cannot be distinguished by measuring some local observable $$O$$. 
 It involves measuring a nonlinear function of $\rho$, for example the entanglement entropy. Learning the nonlinear function requires a more expressive ML model. 
-The authors thus devise a mapping from classical shadow $S(\rho, N)$$ to a highly expressive feature space that includes the polynomial expansion of many-body reduced density matrices. 
+The authors thus devise a mapping from classical shadow $$S(\rho, N)$$ to a highly expressive feature space that includes the polynomial expansion of many-body reduced density matrices. 
 Using this feature space, they establish a rigorous guarantee that a classical ML can efficiently classify the topological phases of matter as well. 
 The provided examples include the topological phases of the toric code and bond-alternating XXZ Hamiltonians. 
 
