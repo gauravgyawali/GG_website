@@ -9,6 +9,14 @@ nav_order: 5
 
 Here's a list of courses for which I have served as a teaching assistant at Cornell University. 
 
+### PHYS 1110
+Experimental physics
+- Summer 2022
+
+### PHYS 2208
+Electromagnetism + quantum for biological sciences
+-Spring 2022
+
 ### PHYS 2213
 Physics II: Electromagnetism
 - Fall 2018

@@ -13,22 +13,19 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Gaurav_Gyawali.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-blog: true
+blog: true # blog
 ---
 
-Hello! Namaste! I am Gaurav Gyawali, a physicist, aspiring guitarist and an infrequent blogger located in Ithaca NY.  
+Hello! Namaste! I am Gaurav Gyawali, a physicist, aspiring guitarist and an infrequent blogger located in Cambridge, Massachussets.  
 
-I come from Kathmandu, Nepal and my dream of becoming a physicist led me to the United States in 2014. After completing my undergraduate degrees in Physics and Mathematics from the University of New Orleans, I joined Cornell University in 2018 to pursue a PhD in theoretical physics. My research expertise lies at the intersection of condensed matter physics and quantum computing. I've previously conducted research in topics including quantum algorithms for near term quantum computers, quantum machine learning, quantum error correction and measurement induced phase transitions. More details about my research can be found here.
+I come from Kathmandu, Nepal and my dream of becoming a physicist led me to the United States in 2014. After completing my undergraduate degrees in Physics and Mathematics from the University of New Orleans, I joined Cornell University in 2018 to pursue a PhD in theoretical physics. I currently work at Harvard University as a visiting fellow. My research expertise lies at the intersection of condensed matter physics and quantum computing. I've previously conducted research in topics including quantum algorithms for near term quantum computers, quantum machine learning, quantum error correction and measurement induced phase transitions. More details about my research can be found here.
 
 In my free time, I like to travel to the mountains, play guitar, meditate and read books. I have been planning a long road trip out to the Rockies for some time now and I wish to make that trip happen sometime this coming year. For several years now, I have been practicing Vipassana meditation that teaches me to be observant and unbiased towards my experiences. I aspire to become a part-time meditation teacher some day and spread joy. I've recently picked up my guitar practice after several years of halt and also started taking lessons. I hope I can create my own music and share it with you someday!
 
