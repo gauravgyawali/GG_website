@@ -4,7 +4,7 @@ title: Synopsis of Atomic Habits by James Clear
 author: Gaurav Gyawali
 date: 2020-12-20 12:20:00 -0500
 description: 
-tags: personalblog
+categories: personalblog
 ---
 
 I recently finished reading Atomic Habits by James Clear. I occasionally read books on how other people go about maximizing their potential, for inspiration and ideas. Here, I am attempting to summarize the main ideas that I gathered from this book.

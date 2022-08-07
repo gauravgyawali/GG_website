@@ -4,7 +4,8 @@ title: Consumerism-a worldwide phenomenon
 author: Gaurav Gyawali
 date: 2020-06-01 12:20:00 -0500
 description: 
-tags: scienceblog
+categories: personalblog
+tags:
 ---
 
 Many of us might recall from our childhood days that buying new stuff was not as easy as it is now. When I tore my pants, my first response was not to immediately log into Amazon and order a new pair; my mom would get a needle from her arsenal of domestic tools and fix the tear. When I needed a new toy, my grandmother would cut a little branch from a tree and make a nice stick for me so that I could pretend I was a policeman. These are just a couple among countless examples of situations that call for a trip to the supermarket nowadays but were fixed differently while many of us were growing up. This difference is very sharp to me because I grew up in an underdeveloped country before moving to the US. While it is true that most of our families make more money than they used to, the rapid rise of consumerism has played a more significant role to alleviate our psychological barrier for buying new stuff. The compulsion for shopping has become obsessive.
