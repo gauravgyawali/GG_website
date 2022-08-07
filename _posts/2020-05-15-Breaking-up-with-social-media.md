@@ -3,6 +3,7 @@ layout: post
 title: Breaking up with social media
 author: Gaurav Gyawali
 date: 2020-05-15 12:20:00 -0500
+tags: personalblog
 description: 
 ---
 

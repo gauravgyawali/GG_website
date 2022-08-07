@@ -4,6 +4,7 @@ title: Classical Shadow
 author: Gaurav Gyawali
 date: 2021-12-13 12:20:00 -0500
 description: 
+scienceblog
 ---
 
 Obtaining any useful information from a quantum computer requires performing measurement on the quantum state. 
