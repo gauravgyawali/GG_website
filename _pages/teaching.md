@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description:
 nav: true
+nav_order: 5
 ---
 
 Here's a list of courses for which I have served as a teaching assistant at Cornell University. 
