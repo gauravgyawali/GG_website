@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: blog
 nav: true
 nav_order: 6
 dropdown: true
