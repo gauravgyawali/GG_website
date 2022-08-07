@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: Blog
+nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Science blog
+      permalink: /blog/category/scienceblog/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Personal blog
+      permalink: /blog/category/personalblog/
 ---

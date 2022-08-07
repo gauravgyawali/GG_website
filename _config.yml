@@ -99,7 +99,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Gaurav's blog  # your blog must have a name for it to show up in the nav bar
-blog_nav_title: blog
+blog_nav_title: 
 blog_description: My thoughts and memoirs
 permalink: /blog/:year/:title/
 
