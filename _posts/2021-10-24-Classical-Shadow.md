@@ -4,6 +4,7 @@ title: Classical Shadow
 author: Gaurav Gyawali
 date: 2021-12-13 12:20:00 -0500
 description: 
+comments: true
 categories: scienceblog
 ---
 
